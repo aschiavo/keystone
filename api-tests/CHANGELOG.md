@@ -1,5 +1,16 @@
 # @keystonejs/api-tests
 
+## 5.4.0
+
+### Minor Changes
+
+- [`7badaa0b`](https://github.com/keystonejs/keystone/commit/7badaa0b974fafd61ac7a4d51ab25522ee075d9c) [#2784](https://github.com/keystonejs/keystone/pull/2784) Thanks [@timleslie](https://github.com/timleslie)! - Added tests for access control cases where access is allowed.
+
+### Patch Changes
+
+- Updated dependencies [[`732128fb`](https://github.com/keystonejs/keystone/commit/732128fb3598039cbb13b08c237fcd3c612b6621), [`fecf9179`](https://github.com/keystonejs/keystone/commit/fecf9179718f4527f6951a88307d9792cf32d08c), [`667bed43`](https://github.com/keystonejs/keystone/commit/667bed43ed0a075565c959dc0d5699cc911c7d64), [`e5fac4db`](https://github.com/keystonejs/keystone/commit/e5fac4db00e1d38c2271d8ca55e7e2bd86a07dfa)]:
+  - @keystonejs/fields@9.0.3
+
 ## 5.3.0
 
 ### Minor Changes
